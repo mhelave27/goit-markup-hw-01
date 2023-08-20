@@ -1,9 +1,9 @@
+
 body {
     font-family: 'Roboto', sans-serif;
 }
 
-.main-header-nav-link, 
-.web-link {
+.nav-logo {
     text-decoration: none;
 }
 
