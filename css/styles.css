@@ -16,7 +16,6 @@ ul {
     font-weight: 700;
     font-size: 56px;
     line-height: 60px;
-    /* 107.143% */
     letter-spacing: 1.12px;
     text-align: center;
     color: white;
@@ -42,7 +41,6 @@ ul {
     font-style: normal;
     font-weight: 700;
     line-height: 40px;
-    /* 111.111% */
     letter-spacing: 0.72px;
     text-transform: capitalize;
     text-align: center;
@@ -68,7 +66,6 @@ ul {
     font-style: normal;
     font-weight: 800;
     line-height: 21px;
-    /* 116.667% */
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
@@ -79,7 +76,6 @@ ul {
     font-style: normal;
     font-weight: 800;
     line-height: 21px;
-    /* 116.667% */
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
@@ -91,7 +87,6 @@ ul {
     font-style: normal;
     font-weight: 800;
     line-height: 21px;
-    /* 116.667% */
     letter-spacing: 0.54px;
     text-transform: uppercase;
 } 
